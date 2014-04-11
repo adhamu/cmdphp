@@ -1,5 +1,5 @@
 <?php
-	//test
+
 	/*for($i=0; $i<10; $i++) {
 		fwrite(STDOUT, $i);
 		sleep(1);
